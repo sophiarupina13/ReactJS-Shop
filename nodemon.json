@@ -1,0 +1,6 @@
+{
+  "watch": ["server.js", "controllers", "services", "src", "public"],
+  "ext": "js,json,jsx,css,html",
+  "ignore": ["node_modules"],
+  "exec": "npm run serve"
+}
